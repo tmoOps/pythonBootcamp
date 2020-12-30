@@ -44,4 +44,6 @@ print(str(len(students)) + ": " + str(students))
 print(dummy)
 print(str(len(cpy)) + ": " + str(cpy))
 
+print("test")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
